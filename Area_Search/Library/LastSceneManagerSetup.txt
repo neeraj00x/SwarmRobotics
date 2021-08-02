@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/acer/Downloads/Swarm-main/Swarm-main/Swarm/A_star/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
